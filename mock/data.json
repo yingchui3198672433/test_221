@@ -1,0 +1,127 @@
+[{
+    "推荐": [{
+            "url": "./images/1.jpg",
+            "money": 12.12,
+            "sale": 10.22
+        },
+        {
+            "url": "./images/2.jpg",
+            "money": 13.13,
+            "sale": 10.32
+        },
+        {
+            "url": "./images/3.jpg",
+            "money": 16.16,
+            "sale": 10.62
+        }, {
+            "url": "./images/4.jpg",
+            "money": 18.18,
+            "sale": 10.82
+        }
+    ]
+}, {
+    "手机": [{
+            "url": "./images/5.jpg",
+            "money": 12.12,
+            "sale": 10.22
+        },
+        {
+            "url": "./images/2.jpg",
+            "money": 13.13,
+            "sale": 10.32
+        },
+        {
+            "url": "./images/6.jpg",
+            "money": 16.16,
+            "sale": 10.62
+        }, {
+            "url": "./images/4.jpg",
+            "money": 18.18,
+            "sale": 10.82
+        }
+    ]
+}, {
+    "智能": [{
+            "url": "./images/1.jpg",
+            "money": 12.12,
+            "sale": 10.22
+        },
+        {
+            "url": "./images/7.jpg",
+            "money": 13.13,
+            "sale": 10.32
+        },
+        {
+            "url": "./images/3.jpg",
+            "money": 16.16,
+            "sale": 10.62
+        }, {
+            "url": "./images/5.jpg",
+            "money": 18.18,
+            "sale": 10.82
+        }
+    ]
+}, {
+    "电视": [{
+            "url": "./images/1.jpg",
+            "money": 12.12,
+            "sale": 10.22
+        },
+        {
+            "url": "./images/6.jpg",
+            "money": 13.13,
+            "sale": 10.32
+        },
+        {
+            "url": "./images/3.jpg",
+            "money": 16.16,
+            "sale": 10.62
+        }, {
+            "url": "./images/5.jpg",
+            "money": 18.18,
+            "sale": 10.82
+        }
+    ]
+}, {
+    "全面屏": [{
+            "url": "./images/1.jpg",
+            "money": 12.12,
+            "sale": 10.22
+        },
+        {
+            "url": "./images/4.jpg",
+            "money": 13.13,
+            "sale": 10.32
+        },
+        {
+            "url": "./images/3.jpg",
+            "money": 16.16,
+            "sale": 10.62
+        }, {
+            "url": "./images/6.jpg",
+            "money": 18.18,
+            "sale": 10.82
+        }
+    ]
+}, {
+    "生活用品": [{
+            "url": "./images/1.jpg",
+            "money": 12.12,
+            "sale": 10.22
+        },
+        {
+            "url": "./images/5.jpg",
+            "money": 13.13,
+            "sale": 10.32
+        },
+        {
+            "url": "./images/3.jpg",
+            "money": 16.16,
+            "sale": 10.62
+        }, {
+            "url": "./images/7.jpg",
+            "money": 18.18,
+            "sale": 10.82
+        }
+    ]
+}]
